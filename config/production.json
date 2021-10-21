@@ -1,5 +1,5 @@
 {
-  "mongoURI": "mongodb+srv://sora:tanaso0992@devconnector.r7fwq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://SoraTanaka:tanaso0992@devconnector.pxcbu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
   "githubClientId": "d5d01f0c95cf645cc77d",
   "githubSecret": "93d28820fad884f584a8b8505815feb437c09689"
